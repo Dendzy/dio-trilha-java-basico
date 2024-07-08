@@ -1,0 +1,1 @@
+# Resolução do Exercício de Diagrama de Classes.
